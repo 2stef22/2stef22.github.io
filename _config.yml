@@ -21,7 +21,7 @@ repository               : "2stef22.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "site-logo.png" #"stefanosev.png"
+  avatar           : "stefanosev-min.png"
   name             : "Stefanos Evripidou"
   pronouns         : # example: "she/her"  
   bio              : "PhD Researcher at UCL"
