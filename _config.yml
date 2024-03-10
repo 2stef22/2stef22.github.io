@@ -12,7 +12,7 @@ title                    : "Stefanos Evripidou"
 title_separator          : "-"
 name                     : &name "Stefanos Evripidou"
 description              : &description "PhD Researcher at UCL"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://2stef22.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "2stef22.github.io"
 
