@@ -8,26 +8,24 @@ redirect_from:
 ---
 
 I am a PhD Candidate in organisational cybersecurity at University College London (UCL), with a background
-in computer science. Supervised by Prof. Jeremy Watson and Prof. Steve Hailes.
+in computer science, supervised by Prof. Jeremy Watson and Prof. Steve Hailes.
 
 
 ## Research
 
-My research focuses on the development of organisational security culture, and more
-specifically, the institutional and organisational factors that affect the development of such a culture in companies
-that use Operational Technology (OT). 
+My research is centred on the development of security culture in companies that use Operational Technology (OT), such as those in the water, energy, and transport sectors. Through qualitative methods, I have focused on the institutional and organisational factors that affect the development of a security culture. More specifically, I have investigated how external stakeholders (e.g., consultants, regulators, service providers) influence organisational practices, common organisational barriers to OT cybersecurity, the relationship between safety and security cultures, and the key factors that influence operational personnel’s mindsets and interactions with cybersecurity.
 
 ## Education
 
 - **MEng in Computer Science**  
   *University College London University*  
-  (International Programme with a Year Abroad at the University of Queensland 2018-2019
-  First Class Honours
+  International Programme with a Year Abroad at the University of Queensland between 2018-2019/
+  First Class Honours/
   Dissertation supervisor: [Dr. Simone Righi](https://www.simonerighi.com/)
 
 
 ## Personal
 
-I was born in Nicosia, Cyprus. 
+I was born and grew up in Nicosia, Cyprus. When I am not painstakingly working on my PhD, I like to spend my time cooking or in the quintessential English institution - the pub.
 
 
