@@ -19,8 +19,8 @@ My research is centred on the development of security culture in companies that 
 
 - **MEng in Computer Science**  
   *University College London University*  
-  International Programme with a Year Abroad at the University of Queensland between 2018-2019/
-  First Class Honours/
+  International Programme with a Year Abroad at the University of Queensland between 2018-2019\
+  First Class Honours\
   Dissertation supervisor: [Dr. Simone Righi](https://www.simonerighi.com/)
 
 
