@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 I am a PhD Candidate in organisational cybersecurity at University College London (UCL), with a background
-in computer science, supervised by Prof. Jeremy Watson and Prof. Steve Hailes.
+in computer science, supervised by [Prof. Jeremy Watson](https://petras-iot.org/person/prof-jeremy-watson/) and [Prof. Steve Hailes](https://www.ucl.ac.uk/computer-science/about/head-department-professor-steve-hailes).
 
 
 ## Research
@@ -21,7 +21,7 @@ My research is centred on the development of security culture in companies that 
   *University College London University*  
   International Programme with a Year Abroad at the University of Queensland between 2018-2019/
   First Class Honours/
-  Dissertation supervisor: [Dr. Simone Righi](https://www.simonerighi.com/)
+  [comment]:Dissertation supervisor: [Dr. Simone Righi](https://www.simonerighi.com/)
 
 
 ## Personal
