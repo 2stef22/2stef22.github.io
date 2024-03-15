@@ -1,7 +1,7 @@
 ---
 title: "Drawing on the Success of Developing a Safety Culture to Improve the Security Culture in Companies That Use Operational Technology"
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
+permalink: /publication/esrel
 #excerpt: 'In this paper, we conducted a critical analysis of the safety and security culture literatures, as well as 35 interviews with OT security professionals on the topic of security culture development. Accordingly, our findings demonstrate that both cultures share almost entirely overlapping enabling factors, such as top management leadership and involvement. Moreover, the successful development of safety culture informs security practitioners views on practices such as establishing security management systems and security communications.'
 date: 2023-09-07
 venue: '33rd European Safety and Reliability Conference (ESREL)'
