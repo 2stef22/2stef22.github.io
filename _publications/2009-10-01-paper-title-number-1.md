@@ -18,7 +18,7 @@ organisations are in line with the factors discussed in the general literature, 
 support. Additional factors related to ICS, such as safety culture, are also highlighted.
 
 
-<h2>Abstract.</h2><br>
+<h2>Abstract</h2><br>
 Industrial control systems (ICS) are a key element of a country’s critical infrastructure, which includes
 industries like energy, water, and transport. In recent years, an increased convergence of operational and information
 technology has been taking place in these systems, increasing their cyber risks, and making security a necessity. People
@@ -32,6 +32,6 @@ support. Additional factors related to ICS, such as safety culture, are also hig
 limited research coverage being the most prominent. As such, proposals for future research are offered, including the
 need to conduct research with employees whose roles are not security related.
 
-<h2>Keywords: Industrial Control Systems, ICS, Cybersecurity, Security Culture, Critical Infrastructure, Human Factors, Operational Technologies, OT</h2> <br>
+<h2>Keywords:</h2> Industrial Control Systems, ICS, Cybersecurity, Security Culture, Critical Infrastructure, Human Factors, Operational Technologies, OT <br>
 
-<div class="wordwrap">You can access the paper <a href="{{https://discovery.ucl.ac.uk/id/eprint/10170047/1/Evripidou_HAISA_final_Evripidou.pdf}}">here </a>.</div>
+<div class="wordwrap">You can access the paper <a href="{https://discovery.ucl.ac.uk/id/eprint/10170047/1/Evripidou_HAISA_final_Evripidou.pdf}">here </a>.</div>
