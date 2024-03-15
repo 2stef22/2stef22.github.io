@@ -25,6 +25,6 @@ My research is centred on the development of security culture in companies that 
 
 ## Personal
 
-I was born and grew up in Nicosia, Cyprus. When I am not painstakingly working on my PhD, I like to spend my time cooking or in the quintessential English institution - the pub.
+I was born and grew up in Nicosia, Cyprus. When I am not painstakingly working on my PhD, I like to spend my time cooking, reading, or in the quintessential English institution - the pub.
 
 
