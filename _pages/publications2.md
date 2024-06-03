@@ -1,16 +1,20 @@
+
 ---
 layout: archive
-title: "Publications"
-permalink: /publications2/
+permalink: /year-archive/
+title: "Blog posts"
 author_profile: true
+redirect_from:
+  - /wordpress/blog-posts/
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>, or <a href="{{site.author.researchgate}}"> my ResearchGate profile</a>.</div>
-{% endif %}
-
 {% include base_path %}
-
-{% for post in site.publications reversed %}
+{% capture written_year %}'None'{% endcapture %}
+{% for post in site.posts %}
+  {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
+  {% if year != written_year %}
+    <h2 id="{{ year | slugify }}" class="archive__subtitle">{{ year }}</h2>
+    {% capture written_year %}{{ year }}{% endcapture %}
+  {% endif %}
   {% include archive-single.html %}
 {% endfor %}
