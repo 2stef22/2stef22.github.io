@@ -3,11 +3,12 @@ main:
   - title: "Publications"
     url: /publications/
     
+
   - title: "Teaching"
     url: /teaching/    
         
   - title: "Blog Posts"
-   url: /year-archive/
+    url: /publications2/
     
   - title: "CV"
     url: /files/Curriculum_Vitae___Evripidou-1.pdf
@@ -21,3 +22,6 @@ main:
 
    #- title: "Portfolio"
   #  url: /portfolio/
+ #- title: "Blog Posts"
+  #  url: /year-archive/
+    
