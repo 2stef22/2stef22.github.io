@@ -34,4 +34,4 @@ need to conduct research with employees whose roles are not security related.
 
 <h2>Keywords:</h2> Industrial Control Systems, ICS, Cybersecurity, Security Culture, Critical Infrastructure, Human Factors, Operational Technologies, OT <br>
 
-<div class="wordwrap">You can access the paper <a href="{https://discovery.ucl.ac.uk/id/eprint/10170047/1/Evripidou_HAISA_final_Evripidou.pdf}">here </a>.</div>
+<div class="wordwrap">You can access the paper <a href="https://discovery.ucl.ac.uk/id/eprint/10170047/1/Evripidou_HAISA_final_Evripidou.pdf">here </a>.</div>
