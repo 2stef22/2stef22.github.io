@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Research Assistant at the University of Glasogw, working at the [Transit] (https://transit.ac.uk/) project which focuses on digital twinning for decarbonising the transport industry. More specifically, I am interested in the organisational challenges that Digital Twins bring to companies, and more broadly, the digital challenges companies face in the development and adoption of Digital Twins.
+I am currently a Research Assistant at the University of Glasogw, working at the [Transit](https://transit.ac.uk/) project which focuses on digital twinning for decarbonising the transport industry. More specifically, I am interested in the organisational challenges that Digital Twins bring to companies, and more broadly, the digital challenges companies face in the development and adoption of Digital Twins.
 
 I am also PhD Candidate in organisational cybersecurity at University College London (UCL), with a background
 in computer science, supervised by [Prof. Jeremy Watson](https://petras-iot.org/person/prof-jeremy-watson/) and [Prof. Steve Hailes](https://www.ucl.ac.uk/computer-science/about/head-department-professor-steve-hailes).
